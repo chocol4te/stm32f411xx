@@ -2,6 +2,11 @@
 name = "stm32f411xx"
 version = "0.0.1"
 authors = ["Ferdia McKeogh <chocol4te@users.noreply.github.com>"]
+description = "Peripheral access API for STM32F411xx microcontrollers"
+documentation = "https://docs.rs/stm32f411xx"
+keywords = ["arm", "cortex-m", "stm32", "svd2rust"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/chocol4te/stm32f411xx"
 
 [dependencies]
 cortex-m = "0.4.2"
