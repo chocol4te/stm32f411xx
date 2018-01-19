@@ -1,0 +1,9 @@
+[package]
+name = "stm32f411xx"
+version = "0.0.1"
+authors = ["Ferdia McKeogh <chocol4te@users.noreply.github.com>"]
+
+[dependencies]
+cortex-m = "0.4.2"
+vcell = "0.1.0"
+bare-metal = "0.1.1"
